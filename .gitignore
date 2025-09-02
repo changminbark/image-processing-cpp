@@ -1,3 +1,6 @@
 # Ignore build and out files
 build/
 out/
+
+# Ignore vscode configs
+.vscode/
